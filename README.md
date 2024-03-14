@@ -1,2 +1,2 @@
-# react-tiny-projects-
+# react-tiny-projects
 React exercises
